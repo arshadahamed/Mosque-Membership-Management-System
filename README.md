@@ -1,3 +1,22 @@
+# Mosque Membership Management System
+
+This Mosque Membership Management System is a robust, feature-rich platform designed to streamline membership tracking and engagement within a mosque community. Built to support administrative efficiency and enhance communication, the system enables the management of member information, donations, and event participation.
+
+## Key Features:
+- **Member Database**: Easily register, update, and manage member profiles with comprehensive information fields.
+- **Donations Tracking**: Track and report donations, ensuring transparency and accountability within the community.
+- **Event Management**: Schedule, notify, and organize events to foster greater community engagement.
+- **Communication Tools**: Facilitate announcements and notifications for members regarding events, news, and updates.
+
+## Tech Stack:
+Developed using:
+- [List the technologies here, e.g., ASP.NET Core, MSSQL, etc.], the system is designed to deliver a secure and scalable solution tailored to the unique needs of mosque communities.
+
+## Purpose:
+This project aims to support mosque administrators in building a connected and engaged community through effective membership management and enhanced communication tools.
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
